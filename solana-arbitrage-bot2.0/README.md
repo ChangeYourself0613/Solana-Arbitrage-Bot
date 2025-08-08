@@ -10,7 +10,7 @@ https://solscan.io/tx/2JtgbXAgwPib9L5Ruc5vLhQ5qeX5EMhVDQbcCaAYVJKpEFn22ArEqXhipu
 
 ## Contact
 
-If you wanna build more profitable and usuful arbitrage bot, contact here: [Telegram](https://t.me/shiny0103) | [Twitter](https://x.com/0xTan1319)
+If you wanna build more profitable and usuful arbitrage bot, contact here: [Telegram](https://t.me/oxie11)
 
 ## Features
 
