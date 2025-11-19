@@ -2,6 +2,9 @@
 
 # Solana Arbitrage Bot Architecture
 
+# Solana sniper and copytrading bot is released
+## https://github.com/ChangeYourself0613/Solana-Sniper-Copy-Trading-Bot
+
 ## DEXs supported
  - Raydium
  - Meteora
