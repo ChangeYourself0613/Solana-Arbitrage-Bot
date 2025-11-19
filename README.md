@@ -2,7 +2,7 @@
 
 # Solana Arbitrage Bot Architecture
 
-# Solana sniper and copytrading bot is released
+# NEW Solana sniper and copy trading bot is released
 ## https://github.com/ChangeYourself0613/Solana-Sniper-Copy-Trading-Bot
 
 ## DEXs supported
@@ -52,6 +52,7 @@ The original implementation should be considered as educational material rather 
 
 ## Overview
 
+NEW Solana Sniper And Copy trading Bot is released!!!
 Solana arbitrage bot implements advanced strategies for detecting and executing profitable trading opportunities across multiple Solana DEXs including Raydium, Orca (Whirlpool), Meteora, and Jupiter, with optional integration for Jito-MEV. Visulize about logic and architecture diagram.
 I newly added solana-program  in 2025 for developer who give me stars on github. It can be useful who are going to implement arbitrage bot on solana blockchain. I hope it will be useful for you. If you have any question, please let me know. I will be happy to help you.
 
