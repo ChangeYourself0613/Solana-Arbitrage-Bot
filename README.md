@@ -1,9 +1,10 @@
 # [📞Telegram](https://t.me/oxie11)
 
-# Solana Arbitrage Bot Architecture
 
 # NEW Solana sniper and copy trading bot is released
 ## https://github.com/ChangeYourself0613/Solana-Sniper-Copy-Trading-Bot
+
+# Solana Arbitrage Bot Architecture
 
 ## DEXs supported
  - Raydium
